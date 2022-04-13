@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success data driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee2e1e2a-e3d2-40fe-a7a9-cbb194ad7393</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2e8bbd32-82b5-4519-951e-2f5ccec846aa</id>
+      <masked>false</masked>
+      <name>membername</name>
+   </variable>
+</TestCaseEntity>
