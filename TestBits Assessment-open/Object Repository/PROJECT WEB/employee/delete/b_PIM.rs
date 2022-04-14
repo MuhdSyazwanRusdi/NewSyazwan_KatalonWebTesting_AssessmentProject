@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>b</value>
-      <webElementGuid>d1928b39-56ab-44f4-a31c-e4b66fd60419</webElementGuid>
+      <webElementGuid>76501f47-6168-4a2c-a4ae-7aee556eeee0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>PIM</value>
-      <webElementGuid>66e7b6b3-a1ed-4832-9ed8-186d6498282f</webElementGuid>
+      <webElementGuid>e3f57bff-3fcb-473a-a545-e75b87d0c179</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu_pim_viewPimModule&quot;)/b[1]</value>
-      <webElementGuid>49a786c5-ce76-4c04-b28d-33aa87475be7</webElementGuid>
+      <webElementGuid>26a1b41d-bed2-437d-b9c9-5917d6b1d920</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='menu_pim_viewPimModule']/b</value>
-      <webElementGuid>7b2d379f-1705-4344-b77c-f22495706546</webElementGuid>
+      <webElementGuid>67b4120d-9abb-4121-89fa-814157fa4981</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Register OAuth Client'])[1]/following::b[1]</value>
-      <webElementGuid>47d0a1c4-140e-4427-8aa0-76fa66b829e3</webElementGuid>
+      <webElementGuid>dcd2197e-558e-433a-b7d1-1c60303ad433</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Media Authentication'])[1]/following::b[1]</value>
-      <webElementGuid>2a53ff70-2db1-4cf0-9e5b-5772e12ed0c1</webElementGuid>
+      <webElementGuid>de90de9a-a528-49d9-bc3e-3a0f079bc927</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Optional Fields'])[1]/preceding::b[1]</value>
-      <webElementGuid>ca56acc6-4305-4c18-a564-4cf34ce63d3a</webElementGuid>
+      <webElementGuid>3167e379-459d-48fd-b0c9-063bbb6d4782</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Fields'])[1]/preceding::b[1]</value>
-      <webElementGuid>cbae2489-c7f9-4088-b8b1-a420c712eacc</webElementGuid>
+      <webElementGuid>d46199f5-a757-4e2d-8e35-b6051cdb574c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='PIM']/parent::*</value>
-      <webElementGuid>e65c6c80-851a-4b66-b514-f2d6a2ef278f</webElementGuid>
+      <webElementGuid>55551625-60fb-4b6c-ba6b-d9137d7ddf31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a/b</value>
-      <webElementGuid>6ed94288-b82a-42dc-a810-ec5cad68d96d</webElementGuid>
+      <webElementGuid>b1189fc9-a494-40f6-bc67-a019c3212a3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//b[(text() = 'PIM' or . = 'PIM')]</value>
-      <webElementGuid>2637a94c-8b30-493c-8498-710fc4acad9b</webElementGuid>
+      <webElementGuid>18e5ae20-d25e-4d79-bbfe-6e06f879f131</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,11 +6,11 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>d858134c-859e-4a06-9d6f-9d040833eebf</dataFileGUID>
-   <dataSourceUrl>C:\Users\syazw\Documents\GitHub\NewSyazwan_KatalonWebTesting_AssessmentProject\TestBits Assessment-open\data tambahan\employee.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\syazw\Documents\GitHub\NewSyazwan_KatalonWebTesting_AssessmentProject\TestBits Assessment-open\data tambahan\data driven.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>Sheet1</sheetName>
+   <sheetName>Employee</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>

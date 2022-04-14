@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>46a65d73-7b41-4fc8-b8a4-35bcdf8382fd</webElementGuid>
+      <webElementGuid>03ee16bf-6d42-4914-a5fc-cc13158f221e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-hint</value>
-      <webElementGuid>ca13394f-f006-4434-87b5-345d0559590c</webElementGuid>
+      <webElementGuid>ae950818-439f-491a-a93c-64393525fd36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Username</value>
-      <webElementGuid>f766671f-33aa-4f31-8538-e28cc6a88db3</webElementGuid>
+      <webElementGuid>875f0908-aac9-40a3-b4be-ef015d0229ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;divUsername&quot;)/span[@class=&quot;form-hint&quot;]</value>
-      <webElementGuid>dadbee62-aba5-4ed5-b249-9f4e54c8a1cd</webElementGuid>
+      <webElementGuid>088d4d6e-40e0-478b-8173-00fc85d23f78</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='divUsername']/span</value>
-      <webElementGuid>84448dce-1cd7-46bf-96f7-8a8d838c135d</webElementGuid>
+      <webElementGuid>41721e5a-1b74-461c-b37b-3db675151401</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGIN Panel'])[1]/following::span[1]</value>
-      <webElementGuid>a51d12fb-1a9a-4cfe-8fdb-e4989acfde17</webElementGuid>
+      <webElementGuid>3d5d50ea-c4b9-4e9d-8453-e015dce12c8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='( Username : Admin | Password : admin123 )'])[1]/following::span[1]</value>
-      <webElementGuid>7df584f2-c019-47f8-9e5d-35bf99596900</webElementGuid>
+      <webElementGuid>bfe97aa7-9445-4d0e-8f18-9b27c43facf4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::span[1]</value>
-      <webElementGuid>ff6ab2f0-a070-4536-b3ca-d454273bd334</webElementGuid>
+      <webElementGuid>ef4079e9-99fc-4af5-8d81-b35b25cf78d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/preceding::span[2]</value>
-      <webElementGuid>c136ba45-8b66-4471-8cb7-92ce59d63c15</webElementGuid>
+      <webElementGuid>d2f519e9-d139-4a56-92e4-00fe299e9d1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Username']/parent::*</value>
-      <webElementGuid>ad3d5e36-5935-48c8-b4df-5f5b9de52908</webElementGuid>
+      <webElementGuid>66712ab1-7a45-4dcc-ba3c-3366c08d5d60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div[2]/span</value>
-      <webElementGuid>a8a8fb80-6083-4b2e-bd65-8e2f4e05b458</webElementGuid>
+      <webElementGuid>a1a1bb1a-423b-4867-b454-59ed27e6f20b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Username' or . = 'Username')]</value>
-      <webElementGuid>d9eb70b2-2b12-47f9-ade4-121667898c6d</webElementGuid>
+      <webElementGuid>b45aff3d-806e-4205-a1a2-0918f37bab81</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

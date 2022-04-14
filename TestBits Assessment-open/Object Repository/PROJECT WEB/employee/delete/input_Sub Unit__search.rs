@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ad155c79-9478-4c83-955b-d695aa99ef91</webElementGuid>
+      <webElementGuid>accc0785-305e-4f57-aaf2-53b2025b7e81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>93b969cf-0777-4cfc-bcc6-a9d0c27fba79</webElementGuid>
+      <webElementGuid>3363c479-3247-43aa-85c9-16aa2144d792</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>searchBtn</value>
-      <webElementGuid>ecf0572b-8e94-4781-9c93-1dde6fb84e17</webElementGuid>
+      <webElementGuid>5c35d128-682f-4fb8-93cd-8615f3e39cd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>58f5499f-dc56-4fd8-bd39-905e6afbf738</webElementGuid>
+      <webElementGuid>0a9b8d70-50bf-47ed-a48d-987d2e0a90ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>_search</value>
-      <webElementGuid>62aa74f1-b274-4149-8d5f-b0ec360a19c7</webElementGuid>
+      <webElementGuid>3aa9ba45-073a-436d-964f-ff874b934a27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hover</value>
-      <webElementGuid>78938bf1-264a-4ba7-9a1d-7aa64bc57d01</webElementGuid>
+      <webElementGuid>25e14610-94ef-4c7a-ac5c-9e0e717d3b7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;searchBtn&quot;)</value>
-      <webElementGuid>1ef26f70-daf4-490e-b0f2-2d70d14b2d9a</webElementGuid>
+      <webElementGuid>d1b27879-6f3f-43b0-b479-ea77f518ac14</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='searchBtn']</value>
-      <webElementGuid>93af4456-4d25-4eeb-9812-8c77ebac3b54</webElementGuid>
+      <webElementGuid>e3c6b284-0535-4976-850a-d918d7888272</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='search_form']/fieldset/p/input</value>
-      <webElementGuid>44a3aa85-b130-4297-a0b9-9fcfb8510940</webElementGuid>
+      <webElementGuid>989a09f5-27ab-4165-9f03-f5028eb9ba9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p/input</value>
-      <webElementGuid>f8760e4d-1c9a-4a42-b8f2-b4ffcef741fa</webElementGuid>
+      <webElementGuid>1568ce0b-2ecc-45da-aae2-1e21316c5c20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button' and @id = 'searchBtn' and @name = '_search']</value>
-      <webElementGuid>89569a5e-39d2-4e39-8015-ae68116af7c6</webElementGuid>
+      <webElementGuid>dd9f0a90-e673-4139-a2e3-a6b7743da420</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

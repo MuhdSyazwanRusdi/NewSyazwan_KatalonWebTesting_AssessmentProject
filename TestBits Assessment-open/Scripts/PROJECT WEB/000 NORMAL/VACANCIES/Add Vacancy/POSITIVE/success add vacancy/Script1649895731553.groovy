@@ -28,7 +28,7 @@ WebUI.click(findTestObject('Object Repository/PROJECT WEB/vacai/Page_OrangeHRM/i
 WebUI.selectOptionByValue(findTestObject('Object Repository/PROJECT WEB/vacai/Page_OrangeHRM/select_-- Select --Automation TesterBTestCh_5cefd5'), 
     '27', true)
 
-WebUI.setText(findTestObject('Object Repository/PROJECT WEB/vacai/Page_OrangeHRM/input__addJobVacancyname'), 'Automation BTest')
+WebUI.setText(findTestObject('Object Repository/PROJECT WEB/vacai/Page_OrangeHRM/input__addJobVacancyname'), 'Automation BTest Leader')
 
 WebUI.setText(findTestObject('Object Repository/PROJECT WEB/vacai/Page_OrangeHRM/input__addJobVacancyhiringManager'), 'J')
 

@@ -29,10 +29,10 @@ WebUI.click(findTestObject('PROJECT WEB/location/input_Country_btnAdd'))
 
 WebUI.click(findTestObject('PROJECT WEB/location/input__locationname'))
 
-WebUI.setText(findTestObject('PROJECT WEB/location/input__locationname'), 'City Plazwa')
+WebUI.setText(findTestObject('PROJECT WEB/location/input__locationname'), 'City Plaza')
 
-WebUI.selectOptionByValue(findTestObject('PROJECT WEB/location/select_-- Select --AfghanistanAlbaniaAlgeri_3356b1_1'), 
-    'MY', true)
+WebUI.selectOptionByValue(findTestObject('PROJECT WEB/location/select_-- Select --AfghanistanAlbaniaAlgeri_3356b1_1'), 'MY', 
+    true)
 
 WebUI.setText(findTestObject('PROJECT WEB/location/input_StateProvince_locationprovince'), 'Kota Setar')
 

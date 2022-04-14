@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>employee add same username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d48ea401-84fe-4aef-9866-57de67f607f4</testCaseGuid>
+</TestCaseEntity>
