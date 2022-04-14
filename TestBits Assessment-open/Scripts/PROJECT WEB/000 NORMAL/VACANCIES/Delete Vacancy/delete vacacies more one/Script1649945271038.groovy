@@ -23,7 +23,9 @@ WebUI.rightClick(findTestObject('Object Repository/PROJECT WEB/vacai/Page_Orange
 
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/vacai/Page_OrangeHRM/a_Vacancies'))
 
-WebUI.click(findTestObject('PROJECT WEB/vacai/a_Automation BTest Leader'))
+WebUI.click(findTestObject('PROJECT WEB/vacai/delete/a_Apps Developer'))
+
+WebUI.click(findTestObject('PROJECT WEB/vacai/delete/a_Apps Tester'))
 
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/vacai/Page_OrangeHRM/input_Status_btnDelete'))
 

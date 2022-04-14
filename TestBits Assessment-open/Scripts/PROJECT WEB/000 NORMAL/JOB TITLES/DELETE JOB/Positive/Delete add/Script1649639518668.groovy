@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('PROJECT WEB/999 BDD/BDD JOB TITLES/Add Job Title/Positive/Success add'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('PROJECT WEB/999 BDD/MANUAL JOB TITLES/Add Job Title/Positive/Success add'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.doubleClick(findTestObject('PROJECT WEB/job title/td_Automation Leader'))
 

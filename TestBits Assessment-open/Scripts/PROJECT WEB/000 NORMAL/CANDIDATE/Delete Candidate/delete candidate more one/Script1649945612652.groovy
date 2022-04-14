@@ -21,12 +21,13 @@ WebUI.callTestCase(findTestCase('PROJECT WEB/000 NORMAL/login/login'), [:], Fail
 
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/Page_OrangeHRM/add cadidate/Page_OrangeHRM/b_Recruitment'))
 
-WebUI.setText(findTestObject('Object Repository/PROJECT WEB/candidate/Page_OrangeHRM/input_Candidate Name_candidateSearchcandidateName'), 
-    'John Wills Junior')
+WebUI.click(findTestObject('PROJECT WEB/candidate/delete more/a_Date of Application'))
 
-WebUI.click(findTestObject('Object Repository/PROJECT WEB/candidate/Page_OrangeHRM/input_Method of Application_btnSrch'))
+WebUI.click(findTestObject('PROJECT WEB/candidate/delete more/a_Date of Application2'))
 
-WebUI.click(findTestObject('PROJECT WEB/candidate/a_John Wills Junior'))
+WebUI.click(findTestObject('PROJECT WEB/candidate/delete more/a_Sergioni Mario Roberto'))
+
+WebUI.click(findTestObject('PROJECT WEB/candidate/delete more/a_Sergioni Michael Mata'))
 
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/candidate/Page_OrangeHRM/input_Method of Application_btnDelete'))
 

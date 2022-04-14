@@ -33,4 +33,11 @@
          <variableId>a6e2a5e8-7a8c-44dc-a6a0-7d220d180ef7</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>0159470b-a4a1-42b4-999c-2862cde19a75</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PROJECT WEB/000 NORMAL/VACANCIES/Delete Vacancy/delete vacacies more one</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

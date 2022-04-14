@@ -25,7 +25,9 @@ WebUI.click(findTestObject('PROJECT WEB/Membership/a_Qualifications'))
 
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/Membership/Page_OrangeHRM/a_Memberships'))
 
-WebUI.click(findTestObject('PROJECT WEB/Membership/a_Automation Testing FanClub'))
+WebUI.click(findTestObject('PROJECT WEB/Membership/delete/a_Development Fanclub'))
+
+WebUI.click(findTestObject('PROJECT WEB/Membership/delete/a_Testing Fanclub'))
 
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/Membership/Page_OrangeHRM/input_Memberships_btnDelete'))
 

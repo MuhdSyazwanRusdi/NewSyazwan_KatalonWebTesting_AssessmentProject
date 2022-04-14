@@ -24,11 +24,13 @@ WebUI.click(findTestObject('Object Repository/PROJECT WEB/employee/delete/b_PIM'
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/employee/delete/a_Employee List'))
 
 WebUI.setText(findTestObject('Object Repository/PROJECT WEB/employee/delete/input_Employee Name_empsearchemployee_nameempName'), 
-    'Ali Mohd Khan')
+    'Khan')
 
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/employee/delete/input_Sub Unit__search'))
 
-WebUI.click(findTestObject('Object Repository/PROJECT WEB/employee/delete/a_Ali Mohd'))
+WebUI.click(findTestObject('PROJECT WEB/employee/delete/a_Abu Mohd'))
+
+WebUI.click(findTestObject('PROJECT WEB/employee/delete/a_Ahmad Mohd'))
 
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/employee/delete/input_Sub Unit_btnDelete'))
 

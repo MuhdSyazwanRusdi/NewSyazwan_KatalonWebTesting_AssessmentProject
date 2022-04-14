@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Date of Application</name>
+   <tag></tag>
+   <elementGuidId>60ddbae0-6075-449e-b402-8fa0698bc23b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='resultTable']/thead/tr/th[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>39cae3ca-4eb7-4ab4-a9b1-cd3a1937db55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://opensource-demo.orangehrmlive.com/index.php/recruitment/viewCandidates?sortField=jc.date_of_application&amp;sortOrder=ASC</value>
+      <webElementGuid>15e49c80-194e-4167-af01-fa7e21bf0fc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Date of Application</value>
+      <webElementGuid>91fd5d24-4a0a-4c72-acf9-6aad929fd216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultTable&quot;)/thead[1]/tr[1]/th[@class=&quot;header&quot;]/a[@class=&quot;null&quot;]</value>
+      <webElementGuid>654eda0f-6b3f-4de3-953f-fbf82cfc2d20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='resultTable']/thead/tr/th[5]/a</value>
+      <webElementGuid>981ecc36-031e-444f-9cdb-c36c9f140883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Date of Application')]</value>
+      <webElementGuid>7e26906c-46e8-4562-963d-7100ee399668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hiring Manager'])[2]/following::a[1]</value>
+      <webElementGuid>a29682ba-43a3-40d6-86e1-072521ee3b37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Candidate'])[1]/following::a[2]</value>
+      <webElementGuid>d21aaf58-48cb-4e57-9e60-38edb48c2ab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/preceding::a[1]</value>
+      <webElementGuid>05d28c66-6cd7-4e47-9f1e-22b7101eb684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resume'])[1]/preceding::a[2]</value>
+      <webElementGuid>e0c001d3-dcbd-4d80-80d4-ae56e96ec84f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://opensource-demo.orangehrmlive.com/index.php/recruitment/viewCandidates?sortField=jc.date_of_application&amp;sortOrder=ASC')]</value>
+      <webElementGuid>5e914cd4-abc5-432b-8339-0082943a3fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[5]/a</value>
+      <webElementGuid>d2a1b39a-6bf4-45c5-afb3-3dc03bbe4ae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://opensource-demo.orangehrmlive.com/index.php/recruitment/viewCandidates?sortField=jc.date_of_application&amp;sortOrder=ASC' and (text() = 'Date of Application' or . = 'Date of Application')]</value>
+      <webElementGuid>61d93943-9b08-4d9a-995e-bc3b5a4f8b35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

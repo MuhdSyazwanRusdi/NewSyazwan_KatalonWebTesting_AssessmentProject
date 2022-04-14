@@ -2,6 +2,8 @@
  
 Five group features and scenarious
 
+*Note: Please Change Execution Profile from 'default' to 'Admin orange HR'
+
 1. Recruitment > Candidates 
 a. Add New Candidate 
 (+) Successfully adding new candidate 
@@ -63,10 +65,10 @@ c. Edit Existing Membership
 (-) Users leave the form blank
 
 5. Recruitment > Vacancies 
-a) Add New Vacancy 
+a. Add New Vacancy 
 (+) Successfully add new vacancy 
 (-) Users leave required field blank 
-b) Delete Vacancy 
+b. Delete Vacancy 
 (+) Successfully delete a candidate 
 (+) Users delete more than one candidate (KIV)
 

@@ -25,7 +25,9 @@ WebUI.click(findTestObject('PROJECT WEB/location/a_Organization'))
 
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/location/delete/a_Locations'))
 
-WebUI.click(findTestObject('PROJECT WEB/location/delete/a_City Plaza'))
+WebUI.click(findTestObject('PROJECT WEB/location/delete/a_Darulaman Hiil'))
+
+WebUI.click(findTestObject('PROJECT WEB/location/delete/a_Darulaman Lake'))
 
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/location/delete/input_Country_btnDelete'))
 
