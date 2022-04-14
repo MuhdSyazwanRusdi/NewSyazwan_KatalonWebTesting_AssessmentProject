@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>success add location DD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7803cd0-3545-4790-8530-15e9d2ed4d40</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bb3144f1-c251-4002-9151-08515988466c</id>
+      <masked>false</masked>
+      <name>locaname</name>
+   </variable>
+</TestCaseEntity>

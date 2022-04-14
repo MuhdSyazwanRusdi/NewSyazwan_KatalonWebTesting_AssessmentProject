@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success add member data driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee2e1e2a-e3d2-40fe-a7a9-cbb194ad7393</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2e8bbd32-82b5-4519-951e-2f5ccec846aa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2e8bbd32-82b5-4519-951e-2f5ccec846aa</id>
+      <masked>false</masked>
+      <name>membername</name>
+   </variable>
+</TestCaseEntity>

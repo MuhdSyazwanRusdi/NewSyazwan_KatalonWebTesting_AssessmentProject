@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>candidate data driven</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>fb1cd6ab-ed6c-499f-ad9c-21926dde81f1</dataFileGUID>
+   <dataSourceUrl>C:\Users\syazw\Documents\GitHub\NewSyazwan_KatalonWebTesting_AssessmentProject\TestBits Assessment-open\data tambahan\data driven.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>candidate</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

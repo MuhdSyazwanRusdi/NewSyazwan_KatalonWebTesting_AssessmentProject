@@ -85,13 +85,13 @@ class Jobtitle {
 		WebUI.uploadFile(findTestObject('PROJECT WEB/job title/input_Job Specification_jobTitlejobSpec'), 'C:\\Users\\syazw\\Documents\\GitHub\\resume big.pdf')
 		WebUI.click(findTestObject('PROJECT WEB/job title/input__btnSave'))
 	}
-	
-	
+
+
 	@Then("User is navigated to jobtitle")
 	def jobtitle_home() {
 		WebUI.click(findTestObject('PROJECT WEB/job title/div_Successfully Saved       Close'))
 	}
-	
+
 	@Then("Jobtitle is required")
 	def jobtitle_required() {
 		WebUI.click(findTestObject('PROJECT WEB/job title/span_Required'))
@@ -106,7 +106,4 @@ class Jobtitle {
 	def jobtitle_same() {
 		WebUI.click(findTestObject('PROJECT WEB/job title/span_Already exists'))
 	}
-	
-	
-	
 }

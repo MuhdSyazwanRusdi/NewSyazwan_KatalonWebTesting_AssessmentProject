@@ -17,13 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('PROJECT WEB/000 NORMAL/LOCATION/ADD LOCATION/positive/success add location'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('PROJECT WEB/000 NORMAL/login/login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/PROJECT WEB/location2/b_Admin'))
+
+WebUI.click(findTestObject('Object Repository/PROJECT WEB/location2/a_Organization'))
+
+WebUI.click(findTestObject('Object Repository/PROJECT WEB/location2/a_Locations'))
 
 WebUI.click(findTestObject('PROJECT WEB/location/edit name/a_City Plazwa'))
 
 WebUI.click(findTestObject('PROJECT WEB/location/edit name/input__btnSave'))
-
-WebUI.setText(findTestObject('PROJECT WEB/location/edit name/input__locationname'), 'City Plaza wow')
 
 WebUI.setText(findTestObject('PROJECT WEB/location/edit name/input_StateProvince_locationprovince'), 'Kedah')
 

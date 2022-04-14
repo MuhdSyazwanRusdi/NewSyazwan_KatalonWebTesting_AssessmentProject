@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('PROJECT WEB/000 NORMAL/login/login'), [:], Fail
 
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/employee/search/b_PIM'))
 
-WebUI.setText(findTestObject('Object Repository/PROJECT WEB/employee/search/input_Id_empsearchid'), '1289')
+WebUI.setText(findTestObject('Object Repository/PROJECT WEB/employee/search/input_Id_empsearchid'), '9289')
 
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/employee/search/input_Sub Unit__search'))
 

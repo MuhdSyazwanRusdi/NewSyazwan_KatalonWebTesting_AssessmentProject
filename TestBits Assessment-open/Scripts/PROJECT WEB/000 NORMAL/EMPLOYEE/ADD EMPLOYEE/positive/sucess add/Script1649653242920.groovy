@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/PROJECT WEB/employee/input_Middl
 
 WebUI.setText(findTestObject('Object Repository/PROJECT WEB/employee/input__lastName'), 'Khan')
 
-WebUI.setText(findTestObject('PROJECT WEB/employee/input_Employee Id_employeeId'), '1289')
+WebUI.setText(findTestObject('PROJECT WEB/employee/input_Employee Id_employeeId'), '9289')
 
 WebUI.uploadFile(findTestObject('PROJECT WEB/employee/input_Photograph_photofile'), 'C:\\Users\\syazw\\Documents\\GitHub\\cat small.jpg')
 

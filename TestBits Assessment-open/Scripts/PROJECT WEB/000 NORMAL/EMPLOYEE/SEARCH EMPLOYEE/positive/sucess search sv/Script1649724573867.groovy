@@ -19,8 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('PROJECT WEB/000 NORMAL/login/login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.openBrowser('')
-
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/employee/search/b_PIM'))
 
 WebUI.setText(findTestObject('PROJECT WEB/employee/search/input_Supervisor Name_empsearchsupervisor_name'), 'Fiona Grace')

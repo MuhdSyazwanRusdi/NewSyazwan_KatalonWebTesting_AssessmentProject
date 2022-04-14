@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>success add vacancy DD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fec05bad-5c2e-471c-8da4-492bca9752c1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a6e2a5e8-7a8c-44dc-a6a0-7d220d180ef7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a6e2a5e8-7a8c-44dc-a6a0-7d220d180ef7</id>
+      <masked>false</masked>
+      <name>vacaname</name>
+   </variable>
+</TestCaseEntity>

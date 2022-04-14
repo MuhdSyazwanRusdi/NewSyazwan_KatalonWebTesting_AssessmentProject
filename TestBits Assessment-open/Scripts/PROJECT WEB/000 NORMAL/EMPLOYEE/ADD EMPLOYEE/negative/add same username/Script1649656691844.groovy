@@ -25,13 +25,13 @@ WebUI.click(findTestObject('Object Repository/PROJECT WEB/employee/input_Sub Uni
 
 WebUI.setText(findTestObject('Object Repository/PROJECT WEB/employee/input__firstName'), 'Abu')
 
-WebUI.setText(findTestObject('Object Repository/PROJECT WEB/employee/input_Middle Name_middleName'), 'Mohd')
+WebUI.setText(findTestObject('Object Repository/PROJECT WEB/employee/input_Middle Name_middleName'), 'Ahmad')
 
 WebUI.setText(findTestObject('Object Repository/PROJECT WEB/employee/input__lastName'), 'Khan')
 
 WebUI.click(findTestObject('Object Repository/PROJECT WEB/employee/input_Create Login Details_chkLogin'))
 
-WebUI.setText(findTestObject('Object Repository/PROJECT WEB/employee/input__user_name'), 'alimadkhan')
+WebUI.setText(findTestObject('Object Repository/PROJECT WEB/employee/input__user_name'), 'alimohdkhan')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/PROJECT WEB/employee/input__user_password'), 'p3ifj43Bw7iyrAYc7uV4lQ==')
 
