@@ -5,9 +5,11 @@ Feature: Job Title Adding
     When User enter <jobname> and <description>
     And User click save
     Then User is navigated to jobtitle
+	
 	Examples:
   	|jobname|description|
   	|Singer|Entertain colleague|
+  	|Automation Leader|Lead automation testing project|
   	
   	
   Scenario: Negative_Fill blank
@@ -35,3 +37,5 @@ Feature: Job Title Adding
 	Examples:
   	|jobname|description|
   	|Singer|Entertain colleague|
+  
+  
